@@ -1,0 +1,45 @@
+{
+  "name": "Horcrux",
+  "type": "album",
+  "root": 0,
+  "parents": [],
+  "items": {
+    "order": [
+      "Tea Ceremony + Golden Gate Park",
+      "Reception",
+      "Bride + Groom"
+    ],
+    "dict": {
+      "Tea Ceremony + Golden Gate Park": {
+        "name": "Tea Ceremony + Golden Gate Park",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Tea Ceremony + Golden Gate Park"
+        ],
+        "path": "./_data/albums/Tea Ceremony + Golden Gate Park.json",
+        "no_sub_album": true
+      },
+      "Bride + Groom": {
+        "name": "Bride + Groom",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Bride + Groom"
+        ],
+        "path": "./_data/albums/Bride + Groom.json",
+        "no_sub_album": true
+      },
+      "Reception": {
+        "name": "Reception",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Reception"
+        ],
+        "path": "./_data/albums/Reception.json",
+        "no_sub_album": true
+      }
+    }
+  }
+}

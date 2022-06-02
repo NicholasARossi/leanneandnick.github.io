@@ -1,0 +1,670 @@
+{
+  "order": [
+    "HeyHoneyPhoto_LN_W-83.jpg",
+    "HeyHoneyPhoto_LN_W-82.jpg",
+    "HeyHoneyPhoto_LN_W-78.jpg",
+    "HeyHoneyPhoto_LN_W-46.jpg",
+    "HeyHoneyPhoto_LN_W-44.jpg",
+    "HeyHoneyPhoto_LN_W-38.jpg",
+    "HeyHoneyPhoto_LN_W-37.jpg",
+    "HeyHoneyPhoto_LN_W-3.jpg",
+    "HeyHoneyPhoto_LN_W-29.jpg",
+    "HeyHoneyPhoto_LN_W-256.jpg",
+    "HeyHoneyPhoto_LN_W-255.jpg",
+    "HeyHoneyPhoto_LN_W-254.jpg",
+    "HeyHoneyPhoto_LN_W-253.jpg",
+    "HeyHoneyPhoto_LN_W-252.jpg",
+    "HeyHoneyPhoto_LN_W-251.jpg",
+    "HeyHoneyPhoto_LN_W-250.jpg",
+    "HeyHoneyPhoto_LN_W-249.jpg",
+    "HeyHoneyPhoto_LN_W-248.jpg",
+    "HeyHoneyPhoto_LN_W-247.jpg",
+    "HeyHoneyPhoto_LN_W-245.jpg",
+    "HeyHoneyPhoto_LN_W-244.jpg",
+    "HeyHoneyPhoto_LN_W-239.jpg",
+    "HeyHoneyPhoto_LN_W-238.jpg",
+    "HeyHoneyPhoto_LN_W-237.jpg",
+    "HeyHoneyPhoto_LN_W-236.jpg",
+    "HeyHoneyPhoto_LN_W-234.jpg",
+    "HeyHoneyPhoto_LN_W-231.jpg",
+    "HeyHoneyPhoto_LN_W-230.jpg",
+    "HeyHoneyPhoto_LN_W-227.jpg",
+    "HeyHoneyPhoto_LN_W-226.jpg",
+    "HeyHoneyPhoto_LN_W-224.jpg",
+    "HeyHoneyPhoto_LN_W-223.jpg",
+    "HeyHoneyPhoto_LN_W-221.jpg",
+    "HeyHoneyPhoto_LN_W-217.jpg",
+    "HeyHoneyPhoto_LN_W-214.jpg",
+    "HeyHoneyPhoto_LN_W-208.jpg",
+    "HeyHoneyPhoto_LN_W-207.jpg",
+    "HeyHoneyPhoto_LN_W-206.jpg",
+    "HeyHoneyPhoto_LN_W-205.jpg",
+    "HeyHoneyPhoto_LN_W-204.jpg",
+    "HeyHoneyPhoto_LN_W-203.jpg",
+    "HeyHoneyPhoto_LN_W-202.jpg",
+    "HeyHoneyPhoto_LN_W-201.jpg",
+    "HeyHoneyPhoto_LN_W-200.jpg",
+    "HeyHoneyPhoto_LN_W-195.jpg",
+    "HeyHoneyPhoto_LN_W-189.jpg",
+    "HeyHoneyPhoto_LN_W-184.jpg",
+    "HeyHoneyPhoto_LN_W-182.jpg",
+    "HeyHoneyPhoto_LN_W-176.jpg",
+    "HeyHoneyPhoto_LN_W-159.jpg",
+    "HeyHoneyPhoto_LN_W-154.jpg",
+    "HeyHoneyPhoto_LN_W-139.jpg",
+    "HeyHoneyPhoto_LN_W-138.jpg",
+    "HeyHoneyPhoto_LN_W-137.jpg",
+    "HeyHoneyPhoto_LN_W-136.jpg",
+    "HeyHoneyPhoto_LN_W-133.jpg",
+    "HeyHoneyPhoto_LN_W-132.jpg",
+    "HeyHoneyPhoto_LN_W-131.jpg",
+    "HeyHoneyPhoto_LN_W-125.jpg",
+    "HeyHoneyPhoto_LN_W-123.jpg",
+    "HeyHoneyPhoto_LN_W-117.jpg",
+    "HeyHoneyPhoto_LN_W-103.jpg",
+    "HeyHoneyPhoto_LN_W-101.jpg",
+    "7211.jpg",
+    "7199.jpg",
+    "7189.jpg",
+    "7185.jpg",
+    "7172.jpg",
+    "7158.jpg",
+    "7146.jpg",
+    "7132.jpg",
+    "7122.jpg",
+    "7107.jpg",
+    "7062.jpg",
+    "7046.jpg",
+    "7032.jpg",
+    "7029.jpg",
+    "7026.jpg",
+    "6999.jpg",
+    "6982.jpg",
+    "6964.jpg",
+    "6852.jpg",
+    "6812.jpg"
+  ],
+  "dict": {
+    "HeyHoneyPhoto_LN_W-83.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-83.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-83.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-82.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-82.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-82.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-78.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-78.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-78.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-46.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-46.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-46.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-44.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-44.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-44.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-38.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-38.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-38.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-37.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-37.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-37.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-3.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-3.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-3.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-29.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-29.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-29.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-256.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-256.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-256.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-255.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-255.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-255.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-254.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-254.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-254.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-253.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-253.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-253.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-252.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-252.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-252.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-251.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-251.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-251.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-250.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-250.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-250.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-249.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-249.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-249.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-248.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-248.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-248.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-247.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-247.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-247.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-245.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-245.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-245.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-244.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-244.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-244.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-239.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-239.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-239.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-238.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-238.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-238.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-237.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-237.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-237.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-236.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-236.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-236.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-234.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-234.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-234.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-231.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-231.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-231.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-230.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-230.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-230.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-227.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-227.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-227.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-226.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-226.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-226.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-224.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-224.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-224.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-223.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-223.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-223.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-221.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-221.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-221.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-217.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-217.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-217.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-214.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-214.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-214.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-208.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-208.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-208.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-207.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-207.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-207.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-206.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-206.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-206.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-205.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-205.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-205.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-204.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-204.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-204.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-203.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-203.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-203.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-202.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-202.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-202.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-201.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-201.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-201.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-200.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-200.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-200.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-195.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-195.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-195.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-189.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-189.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-189.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-184.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-184.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-184.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-182.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-182.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-182.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-176.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-176.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-176.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-159.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-159.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-159.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-154.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-154.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-154.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-139.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-139.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-139.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-138.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-138.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-138.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-137.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-137.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-137.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-136.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-136.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-136.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-133.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-133.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-133.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-132.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-132.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-132.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-131.jpg": {
+      "type": "photo",
+      "width": 1366,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-131.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-131.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-125.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-125.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-125.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-123.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-123.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-123.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-117.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-117.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-117.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-103.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-103.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-103.min.jpg"
+    },
+    "HeyHoneyPhoto_LN_W-101.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1366,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-101.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/HeyHoneyPhoto_LN_W-101.min.jpg"
+    },
+    "7211.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7211.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7211.min.jpg"
+    },
+    "7199.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7199.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7199.min.jpg"
+    },
+    "7189.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1463,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7189.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7189.min.jpg"
+    },
+    "7185.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7185.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7185.min.jpg"
+    },
+    "7172.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7172.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7172.min.jpg"
+    },
+    "7158.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7158.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7158.min.jpg"
+    },
+    "7146.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7146.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7146.min.jpg"
+    },
+    "7132.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7132.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7132.min.jpg"
+    },
+    "7122.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7122.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7122.min.jpg"
+    },
+    "7107.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7107.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7107.min.jpg"
+    },
+    "7062.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7062.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7062.min.jpg"
+    },
+    "7046.jpg": {
+      "type": "photo",
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7046.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7046.min.jpg"
+    },
+    "7032.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7032.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7032.min.jpg"
+    },
+    "7029.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7029.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7029.min.jpg"
+    },
+    "7026.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/7026.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/7026.min.jpg"
+    },
+    "6999.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/6999.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/6999.min.jpg"
+    },
+    "6982.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/6982.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/6982.min.jpg"
+    },
+    "6964.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/6964.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/6964.min.jpg"
+    },
+    "6852.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/6852.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/6852.min.jpg"
+    },
+    "6812.jpg": {
+      "type": "photo",
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Tea Ceremony + Golden Gate Park/6812.jpg",
+      "min_path": "./photos/Tea Ceremony + Golden Gate Park/6812.min.jpg"
+    }
+  }
+}
